@@ -17,7 +17,7 @@ wsl --install ubuntu-24.04
 
 **step 4** : To Create Password 
 ```bash
-create default unix user account : somanath
+create default unix user account : Raghavendra 
 new password:
 retypr new password:
 ``` 
@@ -26,3 +26,4 @@ retypr new password:
 Now We can use the Ubuntu in the Windows OS 
 
 <center> Completion of Session 1 </center>
+
