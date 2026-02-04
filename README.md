@@ -1,9 +1,9 @@
 # Internship Learning Journal  
-**Name:** Raghavendra Mellennavar
-**USN:** 2BL22CS134
-**GitHub Username:** RAGHUME 
-**Department:** CSE
-**Internship Start Date:** 03-02-2026
+- **Name:** Raghavendra Mellennavar
+- **USN:** 2BL22CS134
+- **GitHub Username:** RAGHUME 
+- **Department:** CSE
+- **Internship Start Date:** 03-02-2026
 
 ---
 
