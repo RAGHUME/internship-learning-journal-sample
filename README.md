@@ -18,13 +18,18 @@ Course Link: https://tds.s-anand.net/#/
 
 ---
 
+
 ## 📚 Modules Covered
 
 | Module | Topics | Status |
 |--------|--------|--------|
-| Module 01 | Foundations | In Progress |
-| Module 02 | Tools & Implementation | Not Started |
-| Module 03 | Project Work | Not Started |
+| Module 01 | Foundations | Completed |
+| Module 02 | Deployment Tools & Concepts | Completed |
+| Module 03 | Large Language Models | Completed |
+| Module 04 | Data Sourcing | Completed |
+| Module 05 | Data Preparation | Completed |
+| Module 06 | Data Analysis | In Progress |
+| Module 07 | Data Visualization | Not Started |
 
 ---
 
@@ -41,23 +46,39 @@ Course Link: https://tds.s-anand.net/#/
 ---
 
 ## 🚀 Key Learnings So Far
-- (Update weekly)
-- Example: Understood system architecture basics
-- Example: Learned how APIs work
+
+- Understood containerization using Podman/Docker  
+- Worked with GitHub Pages, Codespaces, and CI/CD workflows  
+- Built APIs using FastAPI and exposed them using ngrok  
+- Learned LLM concepts like embeddings, RAG, and function calling  
+- Performed web scraping using requests, Playwright, and browser tools  
+- Extracted data from APIs, PDFs, and websites  
+- Cleaned and transformed data using Excel, Unix Shell, and DuckDB  
+- Learned basics of dbt for data pipeline transformation  
 
 ---
 
 ## ❓ Doubts / Topics to Revisit
-- Topic 1  
-- Topic 2  
+
+- Advanced dbt workflows and production pipelines  
+- Optimization of large-scale data pipelines  
+- Improving prompt engineering for better LLM outputs  
+- Efficient handling of real-time streaming data  
+
 
 ---
 
 ## 🔄 Weekly Update Log
+
 | Week | What I Learned |
 |------|----------------|
-| Week 1 | |
-| Week 2 | |
+| Week 1 | Basics of development tools and environment setup |
+| Week 2 | Containerization, deployment tools, and FastAPI basics |
+| Week 3 | LLMs, embeddings, RAG, and prompt engineering |
+| Week 4 | Data sourcing using APIs, scraping, and automation |
+| Week 5 | Data cleaning and transformation using Excel, Shell, DuckDB |
+| Week 6 | Started Data Analysis concepts and advanced data workflows |
+
 
 ---
 
