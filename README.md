@@ -28,8 +28,8 @@ Course Link: https://tds.s-anand.net/#/
 | Module 03 | Large Language Models | Completed |
 | Module 04 | Data Sourcing | Completed |
 | Module 05 | Data Preparation | Completed |
-| Module 06 | Data Analysis | In Progress |
-| Module 07 | Data Visualization | Not Started |
+| Module 06 | Data Analysis | Completed |
+| Module 07 | Data Visualization | Completed |
 
 ---
 
@@ -78,7 +78,7 @@ Course Link: https://tds.s-anand.net/#/
 | Week 4 | Data sourcing using APIs, scraping, and automation |
 | Week 5 | Data cleaning and transformation using Excel, Shell, DuckDB |
 | Week 6 | Started Data Analysis concepts and advanced data workflows |
-
+| week 7 | Data Visualization |
 
 ---
 
